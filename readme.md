@@ -45,3 +45,6 @@ This application uses a mock API to simulate real-time stock prices. In a real-w
 ## Logging
 
 Logs are written to `error.log` for errors and `combined.log` for all log levels. Console output is also enabled.
+
+![image](https://github.com/user-attachments/assets/ba8bafd8-db1f-46d0-9dcf-9e08c60ef0bb)
+
